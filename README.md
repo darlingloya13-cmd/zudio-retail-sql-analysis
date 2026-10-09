@@ -5,7 +5,7 @@ This project performs exploratory data analysis (EDA) and location intelligence 
 
 ## 🛠️ Tech Stack
 - **Database**: MySQL / MySQL Workbench
-- **Language**: SQL (DDL, Aggregations, CASE Statements)
+- **Language**: SQL
 - **Version Control**: Git & GitHub
 
 ## 📂 Repository Files
